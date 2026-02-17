@@ -1,37 +1,9 @@
 # 👋 Hi, I'm Raaz
 
-### 🚀 Mobile-First Developer Evolving into Full-Stack Engineering
+🚀 23 y/o software engineer transitioning from **Flutter mobile dev** into **backend & full-stack engineering**.  
+Currently building with **Node.js · Next.js · React · Flutter** — and always learning.
 
-I'm a 23-year-old software engineer on an exciting journey from mobile development to full-stack mastery. What started with **Flutter** and **mobile app development** has evolved into a passion for building scalable backend systems and modern web applications.
+🎯 Looking to join a great team and build impactful products across mobile & web.
 
-## 💡 What I Do
-
-- 🔧 **Backend Engineering**: Building robust APIs and scalable server-side solutions
-- ⚛️ **Modern Web**: Crafting responsive experiences with **React** and **Next.js**
-- 📱 **Mobile Development**: Creating cross-platform apps with **Flutter**
-- 🌉 **Full-Stack Mindset**: Bridging mobile, web, and backend to deliver complete solutions
-
-## 🎯 Current Focus
-
-Transitioning from mobile-first development to becoming a well-rounded **backend** and **full-stack engineer**. I'm actively seeking opportunities to join a forward-thinking organization where I can contribute to impactful projects and grow alongside talented teams.
-
-## 🛠️ Tech Stack
-
-**Backend**: Node.js, Express, REST APIs, Databases  
-**Frontend**: React, Next.js, JavaScript/TypeScript  
-**Mobile**: Flutter, Dart  
-**Tools**: Git, Docker, CI/CD, aws
-
-## 🌱 Philosophy
-
-I believe great software comes from understanding the full picture—from the user's tap on a screen to the data flowing through backend systems. My mobile background gives me a unique perspective on building user-centric, performant applications across the entire stack.
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/raaz-ch-a77535277/
-- 📧 Email: 📧 [Email Me](mailto:raazraz621@gmail.com).
-- 🌐 Portfolio: https://raazportfolio.vercel.app/
-
----
-
-*Open to opportunities in backend, full-stack, and mobile engineering. Let's build something amazing together!*
+**📫 Connect with me**  
+[LinkedIn](https://www.linkedin.com/in/raaz-ch-a77535277/) · [Portfolio](https://raazportfolio.vercel.app/) · [Email Me](mailto:raazraz621@gmail.com)
