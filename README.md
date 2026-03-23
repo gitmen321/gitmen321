@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raaz
 
 🚀 23 y/o software engineer transitioning from **Flutter mobile dev** into **backend & full-stack engineering**.  
-Currently building with **Node.js · Next.js · React · Flutter** — and always learning.
+Currently building with **Node.js · Express.js ·Nest.js · React · Flutter** — and always learning.
 
 🎯 Looking to join a great team and build impactful products across mobile & web.
 
