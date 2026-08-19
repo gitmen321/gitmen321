@@ -1,74 +1,34 @@
 # 👋 Hi, I'm Raaz
 
-🚀 Backend-focused Software Engineer building scalable APIs, async systems, and AI-powered microservices.
+**Forward Deployed Engineer & Full-Stack Developer**  
+🚀 *Architecting scalable APIs, resilient data pipelines, and deterministic AI systems for enterprise production.*
 
-Previously a *Flutter developer, now transitioning into **Backend & Full-Stack Engineering* with production-style architecture using:
-
-*NestJS · Node.js · PostgreSQL · Redis · FastAPI · LangChain · React*
-
-Currently building a *TaskFlow SaaS platform* with secure authentication, background workers, and an upcoming *RAG-based AI assistant microservice*.
+I specialize in rapid technical deployment—embedding directly with clients to translate ambiguous operational bottlenecks into high-ROI, stable software ecosystems. My engineering philosophy optimizes for execution speed, reliability, and blocker prevention.
 
 ---
 
-## 🧠 What I'm working on right now
+## 🛠 Tech Stack & Expertise
 
-🔐 Production-grade Auth System (NestJS)
-* JWT access + refresh token rotation  
-* Session-based device tracking  
-* Google OAuth login  
-* Email verification pipeline (Redis + BullMQ + Resend)  
-* Logout-all-devices architecture  
-
-🤖 TaskFlow AI Assistant (Microservice)
-* FastAPI-based RAG chatbot  
-* LangChain orchestration pipeline  
-* pgvector semantic search  
-* Metadata-filtered multi-tenant retrieval  
-* Open-source embeddings (MiniLM / BGE)  
-
-📦 Async Infrastructure
-* Redis queues with BullMQ  
-* Background email workers  
-* Retry + exponential backoff strategy  
+*   **Backend & Architecture:** Node.js, Python, FastAPI, NestJS, PostgreSQL (Supabase, Edge Functions), Redis, BullMQ
+*   **Applied AI & Microservices:** LangGraph, LangChain, pgvector, Deterministic AI Orchestration, RAG Pipelines
+*   **Frontend & Mobile:** React, TypeScript, Next.js, Tailwind CSS, Flutter, PWAs
+*   **Infrastructure & Security:** Async queues, batch processing, JWT/Session Auth, Row-Level Security (RLS)
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What I'm Building & Shipping
 
-### Backend
-NestJS · Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ
+**1. Enterprise AI Procurement Pipelines (Python/FastAPI/LangGraph)**
+*   Architecting deterministic decision engines that process massive ERP datasets (890K+ rows).
+*   Isolating LLMs strictly for bounded narration to ensure 100% reproducible and auditable outputs.
+*   Resolving heavy parallel API crash loops via strict concurrency caps and batch writes.
 
-### AI / Microservices
-FastAPI · LangChain · pgvector · SentenceTransformers · Ollama
+**2. Scalable Async Infrastructure & Auth (NestJS/PostgreSQL/Redis)**
+*   Building production-grade session auth (JWT + Refresh rotation, Device tracking, Google OAuth).
+*   Implementing resilient async infrastructure using Redis + BullMQ for background workers with exponential backoff.
 
-### Frontend
-React · Flutter
-
-### Dev Tools
-Docker · Git · Linux · REST APIs · JWT Auth · OAuth2
-
----
-
-## 📌 Current Focus
-
-Building scalable backend systems with:
-
-✔ secure authentication architecture  
-✔ async job processing pipelines  
-✔ microservice communication patterns  
-✔ AI-assisted productivity workflows (RAG)
-
-Goal: contribute to backend teams building real-world scalable systems.
-
----
-
-## 📂 Featured Projects
-
-### 🔐 TaskFlow Backend API
-Production-ready NestJS backend with session-based auth, queue workers, Google OAuth and secure verification flows.
-
-### 🤖 TaskFlow AI Assistant (RAG Microservice)
-FastAPI microservice providing contextual task intelligence using embeddings + vector search.
+**3. Cross-Platform Operations Platforms (React/TypeScript/Supabase)**
+*   Shipping multi-tenant PWAs integrating hardware data ingestion, biometrics, and zero-downtime security migrations.
 
 ---
 
@@ -78,17 +38,8 @@ FastAPI microservice providing contextual task intelligence using embeddings + v
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-LinkedIn  
-https://www.linkedin.com/in/raaz-ch-a77535277/
-
-Portfolio  
-https://raazportfolio.vercel.app/
-
-Email  
-raazraz621@gmail.com
-
----
-
-⭐ Always open to backend engineering roles and collaboration opportunities.
+*   **LinkedIn:** [linkedin.com/in/raaz-ch-a77535277](https://linkedin.com/in/raaz-ch-a77535277/)
+*   **Portfolio:** [raazportfolio.vercel.app](https://raazportfolio.vercel.app/)
+*   **Email:** raazraz621@gmail.com
